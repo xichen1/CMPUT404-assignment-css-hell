@@ -51,7 +51,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 10em;
+  width: 3em;
   border-radius: 35px;
 }
 
@@ -74,10 +74,12 @@ header {
 
 .img-container {
   height: 80%;
+  width: 10em;
 }
 
 .img-container img {
   height: 100%;
+  width: 100%;
   transform: rotate(-20deg);
 }
 

@@ -37,8 +37,12 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 # License/Copyright
 
-Textual content is copyright Xichen Pan (C) 2013 under the CC-BY-SA
+Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Xichen Pan visibile in the text.
+repository and (C) 2013 Abram Hindle visibile in the text.
+
+New textual content is copyright Xichen Pan (C) 2021 under the CC-BY-SA
+4.0 unported license. Attribution should be a hyperlink to the
+repository and (C) 2021 Xichen Pan visibile in the text.
 
 Code is licensed under the Apache 2.0 license.

@@ -13,9 +13,9 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 # Changes to html files
 
-1. change the href of cover image to the correct path of image
+1. change the href and src of cover image to the correct path of image
 
-2. change the href of `colophon` image in 2.html to get the image in assets folder
+2. change the src of `colophon` image in 2.html to get the image in assets folder
 
 3. add one line of `<figcaption>Cover img test figcaption</figcaption>` in 1.html under the cover image on line 248, in order to show the css effect for figcaption
 
